@@ -45,7 +45,7 @@ Este guia explica como configurar um teclado ANSI (US) no Fedora para digitar ca
   ```
   (Configura o Alt direito como Compose Key)
 
-3. Combinações úteis:
+2. Combinações úteis:
   * Compose + ' + a → á
   * Compose + ~ + a → ã
   * Compose + , + c → ç
