@@ -4,7 +4,7 @@
 🔧 **Objetivo**: Documentar erros comuns e suas correções para ajudar outros usuários e servir como referência futura.  
 
 ## 📚 Tópicos Cobertos  
-- [Problemas com teclado americano (acentos, layout)](keyboard-fix.md)
+- [Problemas com teclado americano (acentos, layout)](teclado_padrao_ansi.md)
 
 ## 🤝 Como Contribuir  
 Encontrou uma solução diferente? Abra uma **issue** ou envie um **PR**!  
